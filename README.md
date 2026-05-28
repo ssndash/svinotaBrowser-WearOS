@@ -1,2 +1,6 @@
-# svinotaBrowser-WearOS
-svinotaBrowser for WearOS is the worst browser you can imagine, but now on Gecko.
+![SSNDash svinotaBrowser](https://github.com/ssndash/svinotaBrowser/raw/main/docs/readme/readme-banner-svinotabrowser.svg)
+## *svinotaBrowser* is a not fast, not reliable and not private web browser from the [SSNDash Team](https://ssndash.ru/).
+## Now available for *WearOS*! (fully vibecoded btw, very buggy)
+### [Telegram channel](https://t.me/svinotaBrowser)
+
+gecko testing yea
